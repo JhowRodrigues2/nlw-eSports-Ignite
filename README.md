@@ -14,9 +14,6 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
   <p>====================================</p>
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-  <p>====================================</p>
 - [NodeJS](https://nodejs.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
